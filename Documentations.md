@@ -92,6 +92,14 @@ The initial belief was that building a mock API for testing would be a simple. P
   #### Solution: 
   Understanding and implementing appropriate API connections was made easier by a thorough study of the Django REST Framework and examples. Concurrently learning frontend and backend technologies is essential. More efficient communication and coordination between frontend and backend components are facilitated by a well-rounded skill set. Acquiring the knowledge of organizing serializers and views for APIs, as well as making sure URLs are configured correctly to expose the desired data endpoints. API integration can be continuously improved by using an iterative development methodology.
 
+# 6. Learnings 
+ I stepped outside of my comfort zone when working on this project's development, especially when it came to using Django for the backend. It turned out to be a difficult but worthwhile experience to integrate APIs with data variables. Delivering a visually pleasing user interface and a useful dashboard was my main goal when I started this project.
+
+Like with any learning experience, I ran into obstacles along the way, particularly while trying to connect the frontend and backend components. I value the chance this project gave me to explore into these technologies, even though there was a learning curve associated with Django and the Django Rest Framework.
+
+Even though the project is not finished yet, the work I have already done shows my present skill set. But the realization that there is always space for development and progress thrills me more. This project demonstrates my capacity to adapt and my commitment to learning by doing.
+
+
 
 
  
